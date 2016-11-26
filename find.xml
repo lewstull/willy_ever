@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'Sunshine-Version-2'" />
-    <option name="defaultScopeName" value="Project 'Sunshine-Version-2'" />
-    <option name="SEARCH_SCOPE" value="Project 'Sunshine-Version-2'" />
+    <option name="customScope" value="File 'G:\Users\Lewis\E\Android\PLCMonitor\app\src\main\java\com\lewand\plcmonitor\MainActivity.java'" />
+    <option name="defaultScopeName" value="File 'G:\Users\Lewis\E\Android\PLCMonitor\app\src\main\java\com\lewand\plcmonitor\MainActivity.java'" />
+    <option name="SEARCH_SCOPE" value="File 'G:\Users\Lewis\E\Android\PLCMonitor\app\src\main\java\com\lewand\plcmonitor\MainActivity.java'" />
   </component>
 </application>
