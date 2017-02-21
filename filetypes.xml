@@ -2,6 +2,8 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="ForecastFragment" type="CLASS" />
+      <mapping pattern="main_menu" type="XML" />
+      <mapping pattern="list_item" type="XML" />
     </extensionMap>
   </component>
 </application>
